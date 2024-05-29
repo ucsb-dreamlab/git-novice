@@ -1,0 +1,21 @@
+{
+    "name": "carpentry-workbench",
+    "dockerFile": "Dockerfile"
+    // "remoteUser": "rstudio",
+    // "init": true,
+    // "runArgs": [],
+    // "privileged": true,
+    // "overrideCommand": false,
+    // "updateRemoteUserUID": true,
+    // "shutdownAction": "stopContainer",
+    // "securityOpt": ["seccomp=unconfined"]
+    // "features": {
+    //   "ghcr.io/devcontainers/features/docker-outside-of-docker:1": {}
+    // },
+    // "mounts": ["source=dind-var-lib-docker,target=/var/lib/docker,type=volume"],
+    // "postCreateCommand": "devcontainer-links",
+    //"workspaceFolder": "/workspaces/devcontainer",
+    //"workspaceMount": "source=.,target=/home/vscode/devcontainer,type=bind,consistency=cached",
+    //"workspaceFolder": "/home/vscode/devcontainer",
+    // "forwardPorts": []
+  }
